@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="5.0.0" />
     <PackageReference Include="Reqnroll.NUnit" Version="2.0.0" />
     <PackageReference Include="Reqnroll.Tools.MsBuild.Generation" Version="2.0.0" />
     <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="121.0.6167.8500" />
